@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{A58E0125-71C0-74A0-BE39-1BB527326AF7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/NewEnemy.cs">
+    <Files>
+      <File FileName="Assets/NewPlayer.cs" Line="26" Column="45" />
+      <File FileName="Assets/NewEnemy.cs" Line="16" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Observer_Demo" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="NewEnemy.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="66f3dea4-7432-4c9b-8d8a-fd1cd8229476" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
